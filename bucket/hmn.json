@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/heavymetal-network/hmn-cli-pub/releases/download/v0.2.0/hmn_0.2.0_windows_amd64.zip",
+            "bin": [
+                "hmn.exe"
+            ],
+            "hash": "632f9280dd3ec07cdd129c287ce5edf3ba683fd67650653c3a11b54599e5309e"
+        }
+    },
+    "homepage": "https://heavymetal.network",
+    "license": "MIT",
+    "description": "HeavyMetal Network provider node CLI"
+}
