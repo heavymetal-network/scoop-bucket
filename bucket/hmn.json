@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heavymetal-network/hmn-cli-pub/releases/download/v0.4.0/hmn_0.4.0_windows_amd64.zip",
+            "url": "https://github.com/heavymetal-network/hmn-cli-pub/releases/download/v0.4.1/hmn_0.4.1_windows_amd64.zip",
             "bin": [
                 "hmn.exe"
             ],
-            "hash": "99b56d6972c8b4822bc06ca77363bf8500c9ae8edec3fbd4ad7e23e2fa0ee866"
+            "hash": "ed14f17346cebb24c68b7b2f57ccd5ebc62010f507677a6859027bb738d8cafb"
         }
     },
     "homepage": "https://heavymetal.network",
